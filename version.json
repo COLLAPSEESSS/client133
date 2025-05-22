@@ -1,0 +1,29 @@
+{
+  "version": "1.0.1",
+  "launcher": {
+    "version": "1.0.1",
+    "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/GlitchLauncher.exe"
+  },
+  "servers": {
+    "main": "https://api.gamemonitoring.ru/servers/6958714",
+    "combat": "https://api.gamemonitoring.ru/servers/7353171"
+  },
+  "files": [
+    {
+      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
+      "path": "./RustClient_Data/BepInEx/plugins/CALYPSOMOD.dll"
+    },
+    {
+      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/BepInEx/plugins/DiscordRPC.dll",
+      "path": "./RustClient_Data/BepInEx/plugins/DiscordRPC.dll"
+    },
+        {
+      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/BepInEx/plugins/websocket-sharp.dll",
+      "path": "./RustClient_Data/BepInEx/plugins/websocket-sharp.dll"
+    },
+    {
+      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
+      "path": "./RustClient_Data/BepInEx/plugins/Newtonsoft.Json.dll"
+    }
+  ]
+}
