@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "launcher": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/GlitchLauncher.exe"
   },
   "servers": {
@@ -12,6 +12,14 @@
     {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
       "path": "./GlitchRust_Data/Managed/Assembly-CSharp.dll"
+    },
+        {
+      "url": "https://raw.githubusercontent.com/COLLAPSEESSS/client133/refs/heads/main/Managed/Resources/news.json",
+      "path": "./GlitchRust_Data/Resources/news.json"
+    },
+            {
+      "url": "https://raw.githubusercontent.com/COLLAPSEESSS/client133/refs/heads/main/Managed/Resources/server.json",
+      "path": "./GlitchRust_Data/Resources/server.json"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/GlitchAC.dll",
