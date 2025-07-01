@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "launcher": {
     "version": "1.0.1",
-    "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/LunarLauch.exe"
+    "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/LunarLauncher.exe"
   },
   "servers": {
     "main": "https://api.gamemonitoring.ru/servers/9633738",
@@ -11,19 +11,19 @@
   "files": [
     {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
-      "path": "./GlitchRust_Data/Managed/Assembly-CSharp.dll"
+      "path": "./LunarRust_Data/Managed/Assembly-CSharp.dll"
     },
         {
       "url": "https://raw.githubusercontent.com/COLLAPSEESSS/client133/refs/heads/main/Managed/Resources/news.json",
-      "path": "./GlitchRust_Data/Resources/news.json"
+      "path": "./LunarRust_Data/Resources/news.json"
     },
             {
       "url": "https://raw.githubusercontent.com/COLLAPSEESSS/client133/refs/heads/main/Managed/Resources/server.json",
-      "path": "./GlitchRust_Data/Resources/server.json"
+      "path": "./LunarRust_Data/Resources/server.json"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/GlitchAC.dll",
-      "path": "./GlitchRust_Data/Managed/GlitchAC.dll"
+      "path": "./LunarRust_Data/Managed/GlitchAC.dll"
     }
   ]
 }
