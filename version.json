@@ -19,19 +19,19 @@
     },
             {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Resources/EasyHook32.dll",
-      "path": "."
+      "path": "./LunarRust_Data/Mono/EasyHook32.dll"
     },
                 {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Resources/EasyLoad32.dll",
-      "path": "."
+      "path": "./LunarRust_Data/Mono/EasyLoad32.dll"
     },
                     {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Resources/EasyLoad64.dll",
-      "path": "."
+      "path": "./LunarRust_Data/Mono/EasyLoad64.dll"
     },
                     {
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Resources/EasyHook64.dll",
-      "path": "."
+      "path": "./LunarRust_Data/Mono/EasyHook64.dll"
     },
             {
       "url": "https://raw.githubusercontent.com/COLLAPSEESSS/client133/refs/heads/main/Managed/Resources/server.json",
