@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "launcher": {
     "version": "1.1.5",
     "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/LunarLauncher.exe"
@@ -10,7 +10,7 @@
   },
   "files": [
     {
-      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Assembly-CSharp.dll",
+      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/ac/Assembly-CSharp.dll",
       "path": "./LunarRust_Data/Managed/Assembly-CSharp.dll"
     },
         {
@@ -33,13 +33,24 @@
       "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/Resources/EasyHook64.dll",
       "path": "./LunarRust_Data/Mono/EasyHook64.dll"
     },
+        },
+                    {
+      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/ac/Facepunch.Network.dll",
+      "path": "./LunarRust_Data/Managed/Facepunch.Network.dll"
+    },
+            },
+                    {
+      "url": "https://gitlab.com/COLLAPSEESSS/133devb/-/raw/main/NativeProtect.dll?inline=false",
+      "path": "./LunarRust_Data/Mono/NativeProtect.dll"
+    },
+            },
+                    {
+      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/ac/MonoIntegration.dll",
+      "path": "./LunarRust_Data/Managed/MonoIntegration.dll"
+    },
             {
       "url": "https://raw.githubusercontent.com/COLLAPSEESSS/client133/refs/heads/main/Managed/Resources/server.json",
       "path": "./LunarRust_Data/Resources/server.json"
-    },
-    {
-      "url": "https://github.com/COLLAPSEESSS/client133/raw/refs/heads/main/Managed/GlitchAC.dll",
-      "path": "./LunarRust_Data/Managed/GlitchAC.dll"
     }
   ]
 }
