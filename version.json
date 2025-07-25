@@ -38,7 +38,7 @@
       "path": "./LunarRust_Data/Managed/Facepunch.Network.dll"
     },
     {
-      "url": "https://gitlab.com/COLLAPSEESSS/133devb/-/raw/main/NativeProtect.dll?inline=false",
+      "url": "https://codeberg.org/COLLAPSEESSS/rust133/raw/branch/main/NativeProtect.dll",
       "path": "./LunarRust_Data/Mono/NativeProtect.dll"
     },
     {
